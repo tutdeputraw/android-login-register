@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Login App 2</string>
+    <string name="app_name">Login App</string>
     <string name="login">Login</string>
     <string name="back_to_login">Back to login</string>
     <string name="register">Register</string>
